@@ -16,4 +16,4 @@
 git clone https://github.com/honwen/luci-app-aliddns package/luci-app-aliddns
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 git clone https://github.com/xkstudio/luci-app-pptp-server package/luci-app-pptp-server
-cd package && git clone https://github.com/kenzok8/openwrt-packages && git clone https://github.com/kenzok8/small
+cd package && git clone https://github.com/kenzok8/openwrt-packages && git clone https://github.com/kenzok8/small && cd ..
